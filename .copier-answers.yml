@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier
+_commit: v1.5.3
+_src_path: gh:lincc-frameworks/python-project-template
+author_email: tcabrera@andrew.cmu.edu
+author_name: Tomás Cabrera
+custom_install: false
+package_name: myspectra
+project_license: MIT
+project_name: myspectra
+project_organization: tomas-cabrera
