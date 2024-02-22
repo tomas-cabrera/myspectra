@@ -17,6 +17,15 @@ dynamic = ["version"]
 requires-python = ">=3.9"
 dependencies = [
     "ipykernel", # Support for Jupyter notebooks
+    "Cython",
+    "numpy", # Used for numerical operations
+    "scipy",
+    "astropy",
+    "matplotlib", # Used for plotting
+    "sncosmo", # Used for supernova modeling
+    "iminuit",
+    "emcee",
+    "nestle",
 ]
 
 [project.urls]
